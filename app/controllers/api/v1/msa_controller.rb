@@ -1,3 +1,4 @@
+require "#{Rails.root}/lib/peers/peer_process"
 module Api
   module V1
     # Version V1 for the API
